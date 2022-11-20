@@ -1,0 +1,11 @@
+using System
+namespace Myself
+{
+    class Program
+    {
+        static void Main(String [] args)
+        {
+            Console.WriteLine("Manisha kalota");
+        }
+    }
+}
